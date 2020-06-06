@@ -1,5 +1,7 @@
 # Mini-Vintage-Internet-Radio
 
+![photo](container_mini-vintage-internet-radio-3d-printing-105418.jpg)
+
 Designed by  
 Guilherme Schallenbach
 
