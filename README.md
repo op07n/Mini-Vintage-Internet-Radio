@@ -12,3 +12,8 @@ license:
 CC - Attribution - Non-Commercial - Share Alike
 
 https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+
+
+
+https://help.github.com/en/github/managing-files-in-a-repository/3d-file-viewer
