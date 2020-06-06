@@ -2,12 +2,19 @@
 
 ![photo](container_mini-vintage-internet-radio-3d-printing-105418.jpg)
 
+![photo](container_mini-vintage-internet-radio-3d-printing-105417.jpg)
+
+
+
 Designed by  
 Guilherme Schallenbach
 
 
 From  https://pinshape.com/items/27106-3d-printed-mini-vintage-internet-radio
 
+based on
+
+https://www.hackster.io/akellyirl/arduino-raspberry-pi-internet-radio-034262
 
 license:
 
