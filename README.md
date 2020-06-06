@@ -2,7 +2,7 @@
 
 ![photo](container_mini-vintage-internet-radio-3d-printing-105418.jpg)
 
-![photo](container_mini-vintage-internet-radio-3d-printing-105417.jpg)
+![photo](container_mini-vintage-internet-radio-3d-printing-105417.png)
 
 
 
